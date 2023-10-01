@@ -6,3 +6,4 @@
 |4	   |    21 - JUNE - 2022          | PENTESTERLAB 	   |    RECON BADGE               |
 |5    |      26 - NOVEMBER - 2022	  |  TCM security	   |  Practical Ethical Hacking   |
 |6   |      03 - MAY - 2023  |  Tryhackme	   |  Web Fundamental   |
+|7   |      16 - Sep - 2023  |  Tryhackme	   |  Security Engineer   |
